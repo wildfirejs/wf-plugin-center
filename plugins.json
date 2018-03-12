@@ -1,7 +1,10 @@
 {
   "description": "The official wildfire plugin center!",
   "repository": "https://github.com/wildfirejs/wf-plugin-center",
-  "plugins": {
-    "WfPinnedComment": "https://unpkg.com/wf-pinned-comment"
-  }
+  "plugins": [
+    {
+      "id": "WfPinnedComment",
+      "source": "https://unpkg.com/wf-pinned-comment"
+    }
+  ]
 }
