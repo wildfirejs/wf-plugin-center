@@ -1,0 +1,8 @@
+{
+  "description": "The market of plugins for Wildfire.",
+  "repository": "https://github.com/wildfirejs/wf-plugin-center",
+  "plugins": {
+    “WfPinnedComment”: "https://unpkg.com/wf-pinned-comment"
+  }
+}
+
