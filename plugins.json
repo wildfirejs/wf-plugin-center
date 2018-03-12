@@ -1,5 +1,5 @@
 {
-  "description": "The market of plugins for Wildfire.",
+  "description": "The official wildfire plugin center!",
   "repository": "https://github.com/wildfirejs/wf-plugin-center",
   "plugins": {
     "WfPinnedComment": "https://unpkg.com/wf-pinned-comment"
