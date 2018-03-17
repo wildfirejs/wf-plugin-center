@@ -1,0 +1,35 @@
+{
+  "name": "wf-plugin-center",
+  "version": "0.0.1",
+  "description": "A list of available wildfire plugins.",
+  "main": "plugins.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildfirejs/wf-plugin-center.git"
+  },
+  "keywords": [
+    "wildfire",
+    "plugin"
+  ],
+  "author": "LahK",
+  "contributors": [
+    {
+      "name": "Kang Cheng",
+      "email": "me@chengkang.pw",
+      "url": "http://chengkang.me"
+    },
+    {
+      "name": "Rongsen Liao",
+      "email": "hi@mrliao.cn",
+      "url": "http://mrliao.cn"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wildfirejs/wf-plugin-center/issues"
+  },
+  "homepage": "https://github.com/wildfirejs/wf-plugin-center#readme"
+}
