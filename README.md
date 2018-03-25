@@ -17,7 +17,7 @@
 
 3. Create a PR and we will merge your plugin ASAP!
 
-  > Just need to do some check to make sure it works 👌🏻
+    > Just need to do some check to make sure it works 👌🏻
 
 ## Any question?
 
