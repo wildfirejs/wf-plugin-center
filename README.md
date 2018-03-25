@@ -1,6 +1,6 @@
 # wf-plugin-center
 
-The wildfire plugin center.
+🔩A list of wildfire plugins.
 
 ## Publish your plugin
 
@@ -8,12 +8,12 @@ The wildfire plugin center.
 
 2. Add the information of your plugin to `list.json`.
 
-  Please follow the rules:
-    1. key (plugin id/name) should be unique.
-    2. value should be a valid CDN link to the root of your plugin package.
-      e.g. 
-        √ correct: 'https://unpkg.com/wf-pinned-comment'
-        × wrong:   'https://unpkg.com/wf-pinned-comment/'
+    Please follow the rules:
+      1. key (plugin id/name) should be unique.
+      2. value should be a valid CDN link to the root of your plugin package.
+        e.g. 
+          √ correct: 'https://unpkg.com/wf-pinned-comment'
+          × wrong:   'https://unpkg.com/wf-pinned-comment/'
 
 3. Create a PR and we will merge your plugin ASAP!
 
@@ -21,4 +21,4 @@ The wildfire plugin center.
 
 ## Any question?
 
-Feel free to raise an issue.
+Feel free to raise an issue 🙋🏻‍.
